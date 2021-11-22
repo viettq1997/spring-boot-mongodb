@@ -8,3 +8,6 @@ Implement mongo db with spring boot
 ## Step 3
     - create Student model (@Document)
     - create StudentRepository (interact mongo db)
+## Step 4
+    - write Controller , service, repository layer to make the API
+    - get, save (update, insert)

@@ -8,4 +8,4 @@ spring:
       port: 27017
       host: localhost
       #auto indexed
-      auto-index-creation: true
+#      auto-index-creation: true
